@@ -1,0 +1,73 @@
+{
+    "sadness": [
+        "Melancholic Blues - Guitar, harmonica",
+        "Somber Jazz - Saxophone, piano",
+        "Heart-wrenching Classical - Violin, cello",
+        "Mournful Folk - Acoustic guitar, violin",
+        "Wistful Country - Pedal steel guitar, fiddleGloomy Indie - Piano, strings",
+        "Plaintive Ambient - Synthesizers, piano",
+        "Sorrowful Singer-Songwriter - Acoustic guitar, piano",
+        "Poignant Orchestral - Strings, brass",
+        "Bleak Post-Rock - Guitar, piano, stringsHeart-wrenching Classical - flute, cello"
+    ],
+    "joy": [
+        "Pop - Bright electric guitar, catchy synthesizers",
+        "Disco - Funky bassline, rhythmic guitar, brass section",
+        "Salsa - Percussion ensemble (congas, timbales), brass section",
+        "Reggae - Offbeat guitar, melodic bassline, upbeat drums",
+        "Funk - Slap bass, wah-wah guitar, horn section",
+        "Gospel - Hammond organ, soulful vocals, choir",
+        "Calypso - Steel drums, acoustic guitar, percussion",
+        "Soca - Steel drums, syncopated rhythm section, brass",
+        "Dancehall - Synthesized beats, deep bass, dancehall reggae rhythms",
+        "Bubblegum pop - Bouncy synthesizers, catchy melodies, upbeat rhythm section"
+    ],
+    "love": [
+        "R&B (Rhythm and Blues) - Smooth electric guitar, soulful vocals, romantic piano",
+        "Ballad - Piano, strings, emotive vocals",
+        "Soul - Horn section, Hammond organ, expressive vocals",
+        "Smooth Jazz - Saxophone, mellow guitar, soft piano",
+        "Bossa Nova - Nylon-string guitar, gentle percussion, melodic vocals",
+        "Tango - Bandoneon, violin, piano",
+        "Slow Rock - Electric guitar solos, emotional vocals, soft drums",
+        "Flamenco - Spanish guitar, handclaps, passionate vocals",
+        "Bollywood - Sitar, tabla drums, lush orchestration",
+        "Indie Folk - Acoustic guitar, heartfelt vocals, violin"
+    ],
+    "anger": [
+        "Heavy Metal - Distorted electric guitar, pounding drums, aggressive vocals",
+        "Punk - Power chords, fast-paced drums, shouted vocals",
+        "Hardcore - Heavy guitar riffs, intense drumming, aggressive vocals",
+        "Grindcore - Fast tempos, growling vocals, distorted guitars",
+        "Industrial - Industrial - Synthesizers, mechanical sounds, aggressive beats",
+        "Thrash Metal - Thrash Metal - Fast guitar picking, rapid drumming, shouted vocals",
+        "Rap Metal - Heavy guitar riffs, rap vocals, intense drumming",
+        "Nu Metal - Nu Metal - Heavy guitar riffs, turntables, rap vocals",
+        "Hard Rock - Powerful guitar riffs, driving rhythm section, gritty vocals",
+        "Death Metal - Death Metal - Complex guitar riffs, blast beats, guttural vocals"
+    ],
+    "fear": [
+        "Horror Score - Dissonant strings, eerie synthesizers, haunting choir",
+        "Dark Ambient - Droning sounds, unsettling textures, minimalistic percussion",
+        "Industrial Metal - Industrial Metal - Heavy guitar riffs, mechanical beats, sinister vocals",
+        "Drone - Prolonged tones, atmospheric effects, ominous textures",
+        "Psychedelic Rock - Distorted guitars, swirling effects, surreal lyrics",
+        "Darkwave - Synthesized sounds, haunting melodies, brooding vocals",
+        "Experimental - Experimental - Abstract sounds, unconventional structures, unsettling ambiance",
+        "Soundtrack (for thriller movies) - Suspenseful strings, pulsating percussion, ominous brass",
+        "EBM (Electronic Body Music) - EBM (Electronic Body Music) - Industrial beats, synthesizer sequences, aggressive vocals",
+        "Noise - Noise - Harsh tones, feedback loops, chaotic arrangements"
+    ],
+    "surprise": [
+        "Avant-Garde Jazz - Avant-Garde Jazz - Dissonant chords, unconventional rhythms, experimental instrumentation",
+        "Experimental Electronica - Abstract soundscapes, glitchy beats, unpredictable structures",
+        "Noise Rock - Noise Rock - Distorted guitars, cacophonous drums, unconventional song structures",
+        "Free Jazz - Free Jazz - Improvisational instrumentation, abstract melodies, unpredictable rhythms",
+        "Progressive Rock - Complex time signatures, virtuosic solos, intricate compositions",
+        "Abstract Hip Hop - Abstract Hip Hop - Unconventional sampling, experimental beats, abstract lyrics",
+        "Musique concr\u00e8te - Musique concr\u00e8te - Manipulated found sounds, tape manipulation, avant-garde composition techniques",
+        "Electroacoustic Music - Electroacoustic Music - Combination of electronic and acoustic sounds, experimental approaches to sound production",
+        "Post-Industrial - Post-Industrial - Industrial sounds, ambient textures, unconventional song structures",
+        "Glitch Music - Glitch Music - Erratic beats, digital distortion, fragmented melodies"
+    ]
+}
